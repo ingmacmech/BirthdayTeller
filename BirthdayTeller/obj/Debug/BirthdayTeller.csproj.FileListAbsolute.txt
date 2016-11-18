@@ -1,0 +1,6 @@
+C:\Users\Marcus\Documents\Visual Studio 2013\Projects\BirthdayTeller\BirthdayTeller\bin\Debug\BirthdayTeller.exe.config
+C:\Users\Marcus\Documents\Visual Studio 2013\Projects\BirthdayTeller\BirthdayTeller\bin\Debug\BirthdayTeller.exe
+C:\Users\Marcus\Documents\Visual Studio 2013\Projects\BirthdayTeller\BirthdayTeller\bin\Debug\BirthdayTeller.pdb
+C:\Users\Marcus\Documents\Visual Studio 2013\Projects\BirthdayTeller\BirthdayTeller\obj\Debug\BirthdayTeller.csprojResolveAssemblyReference.cache
+C:\Users\Marcus\Documents\Visual Studio 2013\Projects\BirthdayTeller\BirthdayTeller\obj\Debug\BirthdayTeller.exe
+C:\Users\Marcus\Documents\Visual Studio 2013\Projects\BirthdayTeller\BirthdayTeller\obj\Debug\BirthdayTeller.pdb
